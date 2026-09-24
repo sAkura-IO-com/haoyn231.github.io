@@ -95,11 +95,11 @@ export const friendsConfig: FriendsConfig = {
 			rss: "https://kitten-yyds.github.io/index.xml",
 		},
 		{
-			name: "ska的编程日记",
-			url: "https://blog.sakura-io.com/",
+			name: "sAkura-IO",
+			url: "https://www.sakura-io.com/",
 			description:
-				"hey，这里是sakuraofficial的个人博客，站点名为：ska的编程日记。",
-			avatar: "https://blog.sakura-io.com/upload/1tx.jpg",
+				"hi，这里是sAkura-IO的个人博客",
+			avatar: "https://www.sakura-io.com/icon-512.png",
 		},
 		{
 			name: "Zolin's blog",
